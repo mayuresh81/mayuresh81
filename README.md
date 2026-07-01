@@ -4,7 +4,7 @@ I'm an M.Sc. graduate in Commercial Vehicle Technology from RPTU Kaiserslautern-
 
 ---
 
-## 🔍 Research Interests
+## 🔍 Interests
 
 - Reinforcement Learning for autonomous decision-making
 - Learning-based and model-based control
