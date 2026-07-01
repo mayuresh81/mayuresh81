@@ -70,4 +70,4 @@ LiDAR perception pipeline validated in CARLA for ADAS applications
 ## 📬 Contact
 
 - 💼 [[LinkedIn](https://www.linkedin.com/in/mayuresh-j-b9a73b15b/)]
-- 📍 Esslingen am Neckar, Germany
+- 📍 Germany
